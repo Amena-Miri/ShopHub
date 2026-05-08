@@ -1,6 +1,6 @@
 # 🛍️ ShopHub - Product Store App
 
-> A csmall Product Store App built with React using Context API, Redux Toolkit, and React Query
+> A small Product Store App built with React using Context API, Redux Toolkit, and React Query
 
 ![React](https://img.shields.io/badge/React-18.2-blue)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-2.2-purple)
